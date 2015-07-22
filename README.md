@@ -14,8 +14,13 @@ It's written in Python and GTK and only tested on Linux.
 * Extract it 
 * Run main.py 
 
+### UI
+
 ![UI]
-(http://i.imgur.com/WYBrXsc.png)
+(http://i.imgur.com/98ptS5o.png)
+### Notifications
+![Notifications]
+(http://i.imgur.com/myStKEa.png)
 
 
 

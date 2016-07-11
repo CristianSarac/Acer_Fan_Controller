@@ -10,7 +10,7 @@ This was originally targeted to the 5750G only.
 It's written in Python and GTK and only tested on Linux. 
 
 # How to 
-* Download [This File] (https://github.com/CristianSarac/Acer_Fan_Controller/blob/master/AcerFan.tar.gz) 
+* Download [The Latest Release] (https://github.com/CristianSarac/Acer_Fan_Controller/releases) 
 * Extract it 
 * Run main.py 
 
